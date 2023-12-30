@@ -9,7 +9,7 @@ artificial intelligence into product development, this dataset serves as a
 microcosm illustrating the transformative power of analytics in optimizing
 business strategies.
 
-<img src="Dashborad/Db1.PNG/>
+<img src="Dashborad/Db1.PNG/">
 
 ## Steps:
 ## 1.Import Data:
